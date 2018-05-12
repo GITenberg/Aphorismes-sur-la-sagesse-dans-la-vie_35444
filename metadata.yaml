@@ -1,0 +1,39 @@
+_repo: Aphorismes-sur-la-sagesse-dans-la-vie_35444
+_version: 0.1.0
+alternative_title: Aphorismen zur Lebensweisheit. French
+contributor:
+  translator:
+    agent_name: Cantacuzène, J. A.
+    aliases:
+    - Cantacuzene, J. A.
+    - Cantacuzène, J.-A.
+    gutenberg_agent_id: '37679'
+    url: http://www.gutenberg.org/2009/agents/37679
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schopenhauer, Arthur
+    birthdate: 1788
+    deathdate: 1860
+    gutenberg_agent_id: '3648'
+    url: http://www.gutenberg.org/2009/agents/3648
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2011-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35444'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maxims'
+- !lcc 'B'
+- !lcsh 'Philosophy'
+- !lcsh 'Conduct of life'
+title: Aphorismes sur la sagesse dans la vie
+url: http://www.gutenberg.org/ebooks/35444
